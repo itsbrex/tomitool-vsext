@@ -3,6 +3,10 @@
   "displayName": "tomitool",
   "description": "Tomitool to add custom syntax hilight",
   "version": "0.0.7",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tomimick/tomitool-vsext"
+  },
   "engines": {
     "vscode": "^1.63.0"
   },
